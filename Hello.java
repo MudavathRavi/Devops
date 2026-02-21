@@ -2,6 +2,6 @@ class Hello
 {
 Public static void main(String args[])
 {
-System.out.println(“Hello from master 2.0”);
+System.out.println(“hello from remote”);
 }
 }
